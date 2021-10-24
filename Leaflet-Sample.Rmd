@@ -3,9 +3,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## My First Leaflet Map
+# My First Leaflet Map
 ## Sohan Mandal
-## 21 October 2021
+### 21 October 2021
 Create a leaflet map object.
 ```{r cars}
 library(leaflet)
